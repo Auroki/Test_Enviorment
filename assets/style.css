@@ -99,14 +99,14 @@ h4 {
 }
 
 .column_two {
-  flex: 48%;
+  flex: 60%;
   margin-top: auto;
   background-color: #9EDBDA;
   /* border-radius: 5px; */
 }
 
 .column_two_filter {
-  flex: 48%;
+  flex: 60%;
   margin: auto;
   background-color: #e9e9e9;
   /* border-radius: 5px; */
