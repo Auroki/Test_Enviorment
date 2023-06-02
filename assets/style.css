@@ -64,7 +64,7 @@ h4 {
   font-family: Helvetica;
   font-size: 20px;
   font-weight: lighter;
-  text-align: right;
+  text-align: center;
 }
 
 .pretty {
@@ -100,7 +100,7 @@ h4 {
 
 .column_two {
   flex: 60%;
-  margin-top: auto;
+  margin: auto;
   background-color: #9EDBDA;
   /* border-radius: 5px; */
 }
