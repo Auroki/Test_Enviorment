@@ -6,6 +6,7 @@ import pandas as pd
 import numpy as np
 import plotly.io as pio
 import plotly.express as px
+pip install openpyxl
 
 # Dataset 'Processing'
 
